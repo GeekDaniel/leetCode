@@ -46,7 +46,7 @@ public class HuiWenShuNotString {
     public static void main(String[] args) {
         int value1 = 10;
         System.out.println(value1 + (ifHuiWen(value1) ? " is " : " isn't ") + "回文数");
-        int value2 = 1221;
+        int value2 = 122;
         System.out.println(value2 + (ifHuiWen(value2) ? " is " : " isn't ") + "回文数");
         int value3 = -121;
         System.out.println(value3 + (ifHuiWen(value3) ? " is " : " isn't ") + "回文数");
