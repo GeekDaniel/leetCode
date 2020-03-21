@@ -13,7 +13,7 @@ import java.util.List;
  */
 public class BuildBinaryTree {
     /**
-     * Definition for a binary tree node.
+     * Definition for a binary tree next.
      * public class TreeNode {
      * int val;
      * TreeNode left;
