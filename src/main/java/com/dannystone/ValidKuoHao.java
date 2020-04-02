@@ -1,4 +1,4 @@
-package com.dannystone.current;
+package com.dannystone;
 
 import java.util.HashMap;
 import java.util.Map;
